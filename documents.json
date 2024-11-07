@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Fighter Jets",
+        "image": "fighter_jet.jpg",
+        "description": "Fighter jets are military aircraft designed for air-to-air combat. They use advanced avionics and weaponry to achieve air superiority, with high-speed engines and maneuverability essential for dodging enemy fire and targeting adversaries.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example1",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Fighter_aircraft",
+        "additionalLink": "https://www.airforce-technology.com/features/featuretop-10-fighter-aircraft-in-the-world/"
+    },
+    {
+        "title": "Bombers",
+        "image": "bomber.jpg",
+        "description": "Bombers are aircraft designed to attack ground and sea targets by dropping bombs, launching torpedoes, or deploying missiles. Strategic bombers are capable of long-range attacks, often carrying nuclear payloads, while tactical bombers are used for shorter-range missions.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example2",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Bomber",
+        "additionalLink": "https://www.boeing.com/defense/bomber/"
+    },
+    {
+        "title": "Submarines",
+        "image": "submarine.jpg",
+        "description": "Submarines are underwater vessels capable of independent operation. They are used for reconnaissance, special operations, and stealth attacks on enemy vessels. Modern submarines are powered by nuclear reactors, allowing extended underwater endurance.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example3",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Submarine",
+        "additionalLink": "https://www.naval-technology.com/projects/type-212a-submarine/"
+    },
+    {
+        "title": "Tanks",
+        "image": "tank.jpg",
+        "description": "Tanks are armored vehicles equipped with large-caliber cannons and powerful engines. They provide crucial firepower on land and are used for both offensive and defensive operations on the battlefield.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example4",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Tank",
+        "additionalLink": "https://www.army-technology.com/features/featurethe-world-s-top-10-battle-tanks/"
+    },
+    {
+        "title": "Missiles",
+        "image": "missile.jpg",
+        "description": "Missiles are guided weapons designed to deliver explosive payloads over long distances. They vary in type, including ballistic, cruise, and anti-aircraft missiles, and are used by all branches of the military.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example5",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Missile",
+        "additionalLink": "https://missilethreat.csis.org/"
+    },
+    {
+        "title": "Radar Systems",
+        "image": "radar.jpg",
+        "description": "Radar systems are used to detect, locate, and track objects by sending out radio waves and analyzing the echoes that return. Radars are essential in air and missile defense, enabling militaries to identify potential threats.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example6",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Radar",
+        "additionalLink": "https://www.electronicdesign.com/technologies/communications/article/21794149/the-evolution-of-radar"
+    }
+]

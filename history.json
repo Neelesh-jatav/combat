@@ -1,0 +1,23 @@
+[
+    {
+        "title": "History of Weapons",
+        "image": "weapons_history.jpg",
+        "description": "Weapons have evolved dramatically over centuries, from primitive tools to modern firearms and nuclear arsenals. This section covers the advancements in weaponry through different eras.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example1",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/History_of_weapons"
+    },
+    {
+        "title": "Defense Technology Development",
+        "image": "defense_technology.jpg",
+        "description": "Defense technology has shaped the modern battlefield, from radar systems to cybersecurity and missile defense. This section explores the evolution and impact of defense technology.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example2",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/Military_technology"
+    },
+    {
+        "title": "World Wars Overview",
+        "image": "world_wars.jpg",
+        "description": "The World Wars had a profound impact on global history, leading to significant political, economic, and social changes. Learn more about the causes, events, and aftermath of the World Wars.",
+        "youtubeLink": "https://www.youtube.com/watch?v=example3",
+        "wikipediaLink": "https://en.wikipedia.org/wiki/World_war"
+    }
+]
