@@ -1,0 +1,65 @@
+[
+    {
+        "category": "Air",
+        "records": [
+            {
+                "name": "F-22 Raptor",
+                "type": "Fighter Jet",
+                "speed": "2,414 km/h",
+                "range": "2,960 km",
+                "image": "f22.jpg",
+                "description": "The F-22 Raptor is a fifth-generation fighter jet known for its stealth and agility, serving as one of the most advanced fighter jets."
+            },
+            {
+                "name": "B-2 Spirit",
+                "type": "Stealth Bomber",
+                "speed": "1,010 km/h",
+                "range": "11,100 km",
+                "image": "b2.jpg",
+                "description": "The B-2 Spirit is a stealth bomber capable of penetrating dense anti-aircraft defenses and delivering nuclear payloads."
+            }
+        ]
+    },
+    {
+        "category": "Land",
+        "records": [
+            {
+                "name": "M1 Abrams",
+                "type": "Main Battle Tank",
+                "speed": "67 km/h",
+                "range": "426 km",
+                "image": "m1_abrams.jpg",
+                "description": "The M1 Abrams is a third-generation main battle tank that provides exceptional firepower and armor protection."
+            },
+            {
+                "name": "HIMARS",
+                "type": "Rocket Artillery",
+                "speed": "85 km/h",
+                "range": "480 km",
+                "image": "himars.jpg",
+                "description": "The HIMARS system is a high-mobility artillery rocket system capable of precise long-range targeting."
+            }
+        ]
+    },
+    {
+        "category": "Water",
+        "records": [
+            {
+                "name": "USS Gerald R. Ford",
+                "type": "Aircraft Carrier",
+                "speed": "30+ knots",
+                "range": "Unlimited (with nuclear power)",
+                "image": "uss_gerald_r_ford.jpg",
+                "description": "The USS Gerald R. Ford is a nuclear-powered aircraft carrier equipped with advanced technology and defensive systems."
+            },
+            {
+                "name": "Seawolf-class Submarine",
+                "type": "Attack Submarine",
+                "speed": "35 knots",
+                "range": "Nuclear-powered (unlimited)",
+                "image": "seawolf.jpg",
+                "description": "The Seawolf-class submarine is a fast attack submarine known for its stealth and high-speed capabilities."
+            }
+        ]
+    }
+]
