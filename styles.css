@@ -815,7 +815,7 @@ button[type="submit"]:hover {
 
 .overlay-content.right {
     height: 35rem;
-    width: 20rem;
+    width: 9rem;
     background-color: rgb(202, 162, 110, 0.2);
     right: 20px;
     /* Position to the right */
