@@ -1237,27 +1237,27 @@ button[type="submit"]:hover {
     z-index: 1;
 } */
 /* Responsive Design */
-@media (max-width: 1291px) {
+@media (max-width: 768px) {
     .bottom-ribbon{
         align-items: center;
         justify-content: center;
     }
     .bottom-bar{
         background-color: greenyellow;
-        width: 1290px;
+        width: 768px;
     }
     .navbar{
         background-color: red;
-        width: 1290px;
+        width: 768px;
     }
     .content {
-        width: 1290px;
+        width: 768px;
         background-color: red;
         /* flex-direction: column; */
         /* align-items: center; */
     }
     .background-section{
-        width: 1290px;
+        width: 768px;
         background-color: gold;
     }
 }
